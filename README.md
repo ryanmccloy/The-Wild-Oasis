@@ -11,6 +11,6 @@ Log in credentials:
 Email: tester@tester.com
 Password: testtest
 
-This project used Vite and React, along with React Router, React Query, and styled components.
+This project used Vite and React, along with React Router, React Query, Supabase, and styled components.
 
 It is an application for a hotel to check guests in and out, view bookings, view and edit cabins, and see an overview of statistics.
